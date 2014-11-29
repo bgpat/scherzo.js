@@ -19,4 +19,4 @@ NoteOnやNoteOffなどのイベントを独立させて処理することで
 
 メモ
 --------
-* JSDoc: 'jsdoc -d=doc lib'
+* JSDoc: `jsdoc -d=doc lib`

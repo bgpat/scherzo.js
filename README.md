@@ -16,3 +16,7 @@ NoteOnやNoteOffなどのイベントを独立させて処理することで
 * Format0とFormat1 をサポート
 * SMF <-> JSON(独自形式) 間で相互変換
 * クライアントサイドでもサーバーサイドでも使えるようにする
+
+メモ
+--------
+* JSDoc: 'jsdoc -d=doc lib'

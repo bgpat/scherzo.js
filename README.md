@@ -1,4 +1,4 @@
-Scherzo.js - The SMF Library for Javascript
+Scherzo.js - SMF Library for Javascript
 =======
 
 What's this?
